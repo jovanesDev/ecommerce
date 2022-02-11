@@ -1,0 +1,46 @@
+.logo {
+    max-width: 30px;
+}
+
+.active {
+    background: #000 !important;
+}
+
+.full-height {
+    
+    min-height: 100vh;
+}
+
+.text-with-dots {
+    display: block;
+    width: 98%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+}
+
+.opacity-half {
+
+    opacity: 0.8;
+}
+
+
+.bg-venom {
+
+    background-image: url("https://i.imgur.com/KS6AnOV.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container-scroll {
+
+    height: 55vh;
+    overflow-y: scroll;
+}
+
+.carousel-img {
+
+    max-height: 600px;
+    object-fit: cover;
+}

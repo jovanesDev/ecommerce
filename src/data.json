@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "imagen": "https://www.veracruzenred.mx/up-ver/uploads/2021/07/Assassins-Creed-Valhalla-lidera-ventas-en-Reino-Unido-mientras-Cyberpunk-2077-cae-al-tercer-puesto.jpg",
+      "nombre": "assassin's creed valhalla",
+      "descripcion": "Inglaterra, en la época de los vikingos, es una nación fracturada llena de amos mezquinos y reinos en guerra. Debajo de todo el caos yace una tierra salvaje y llena de abundancia que espera a un nuevo conquistador. ¿Serás tú?",
+      "precio": 2500,
+      "stock": 5,
+      "categoria": "pc"
+    },
+    {
+      "id": 2,
+      "imagen": "https://codigoesports.com/wp-content/uploads/2021/06/cyberpunk-2077-2354837.jpg",
+      "nombre": "Cyberpunk 2077",
+      "descripcion": "Cyberpunk 2077 es una historia de acción y aventura en mundo abierto ambientada en Night City, una megalópolis obsesionada con el poder, el glamur y la modificación corporal. Tu personaje es V, un mercenario que persigue un implante único que permite alcanzar la inmortalidad. Podrás personalizar las mejoras cibernéticas, las habilidades y el estilo de juego del personaje para dar forma a un mundo y a una historia que depende de tus decisiones.",
+      "precio": 2500,
+      "stock": 5,
+      "categoria": "pc"
+    },
+    {
+      "id": 3,
+      "imagen": "https://www.gameprotv.com/archivos/202010/marvel-s-spider-man-miles-morales-principal.jpg",
+      "nombre": "Spider-Man: Miles Morales",
+      "descripcion": "En la última aventura del universo de Spider-Man de Marvel, el adolescente Miles Morales intenta ajustarse a su nuevo hogar mientras que sigue los pasos de su mentor, Peter Parker, para convertirse en el nuevo Spider-Man.",
+      "precio": 3200,
+      "stock": 4,
+      "categoria": "pc"
+    },
+    {
+      "id": 4,
+      "imagen": "https://pressover.news/wp-content/uploads/2021/10/d52b9b34-fd1c-42af-95ec-e42438a9bdba.jpg",
+      "nombre": "Far Cry 6",
+      "descripcion": "Mientras Anton Castillo promete restaurar la otrora próspera nación isleña de Yara, está preparando a su hijo, Diego, para que se convierta en el próximo presidente.",
+      "precio": 4400,
+      "stock": 2,
+      "categoria": "xbox"
+    },
+    {
+      "id": 5,
+      "imagen": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_MortalKombat11.jpg",
+      "nombre": "Mortal Kombat 11",
+      "descripcion": "Toma control de los protectores de Earthrealm en las DOS aclamadas Historias de Campaña mientras compiten para detener a Kronika de regresar el tiempo y restablecer la historia. Las amistades serán puestas a prueba, y nuevas alianzas forjadas, en la batalla para salvar toda la existencia.",
+      "precio": 3200,
+      "stock": 4,
+      "categoria": "play-station"
+    },
+    {
+      "id": 6,
+      "imagen": "https://i.blogs.es/515440/1366_2000---2021-09-27t233325.289/1366_2000.jpeg",
+      "nombre": "halo infinite",
+      "descripcion": "La legendaria saga Halo regresa con la campaña de Master Chief más amplia hasta la fecha y una experiencia multijugador gratuita revolucionaria.",
+      "precio": 1800,
+      "stock": 5,
+      "categoria": "xbox"
+    },
+    {
+      "id": 7,
+      "imagen": "https://as01.epimg.net/meristation/imagenes/2021/06/08/avances/1623170724_576540_1623185240_portada_normal.jpg",
+      "nombre": "Battlefield 2042",
+      "descripcion": "Los campos de batalla cambian ante tus ojos. Un arsenal de vanguardia a tu disposición. El retorno de la guerra total. Adáptate y vence en descomunales batallas de 128 jugadores* en las que las tormentas dinámicas, los peligros medioambientales, la libertad de combate y la característica destrucción de Battlefield desatan una nueva dimensión de momentos exclusivos de Battlefield.",
+      "precio": 2500,
+      "stock": 5,
+      "categoria": "xbox"
+    },
+    {
+      "id": 8,
+      "imagen": "https://i.blogs.es/0d9501/220221-watchdogs-legion-online/1366_2000.jpeg",
+      "nombre": "Watch Dogs: Legion",
+      "descripcion": "Los campos de batalla cambian ante tus ojos. Un arsenal de vanguardia a tu disposición. El retorno de la guerra total. Adáptate y vence en descomunales batallas de 128 jugadores* en las que las tormentas dinámicas, los peligros medioambientales, la libertad de combate y la característica destrucción de Battlefield desatan una nueva dimensión de momentos exclusivos de Battlefield.",
+      "precio": 2750,
+      "stock": 8,
+      "categoria": "play-station"
+    },
+    {
+      "id": 9,
+      "imagen": "https://cdn1.epicgames.com/ed55aa5edc5941de92fd7f64de415793/offer/EGS_HITMAN3_IOInteractiveAS_S1-2560x1440-fe613ea24891cacef30e846e30a00982.jpg",
+      "nombre": "Hitman 3",
+      "descripcion": "La muerte te espera. El Agente 47 regresa en HITMAN 3, el espectacular cierre de la trilogía de Mundo del asesinato.",
+      "precio": 1750,
+      "stock": 10,
+      "categoria": "play-station"
+    }
+  ]
+}
